@@ -21,15 +21,17 @@ public class Operadores {
         //logicos, relacion, comparacion, booleanos
 
         /*
-        >
-        >=
-        <
-        <=
-        ==
+        comparacion
+        > mayor que
+        >= mayor o igual que
+        < menor que
+        <= menor o igual que
+        == igual que
         !=
         && and
         || or
         !
+        === IMPORTANTE: EN JAVA NO EXISTE !!!
          */
 
 
@@ -52,5 +54,9 @@ public class Operadores {
 
         //conquetanacion
         //*
+
+        //operadores
+        //incremento ++
+        //decremento --
     }
 }
